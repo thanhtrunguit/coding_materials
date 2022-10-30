@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "anime_game_3d_openworld_plotsellfcreated",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "anime_game_3d_openworld_plotsellfcreated::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-anime_game_3d_openworld_plotsellfcreated-Debug-449c0108a3efbce851b7.json",
+					"name" : "anime_game_3d_openworld_plotsellfcreated",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/thanhtrung/coding_materials/anime_game_3d_openworld_plotsellfcreated/cmake-build-debug",
+		"source" : "/Users/thanhtrung/coding_materials/anime_game_3d_openworld_plotsellfcreated"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
